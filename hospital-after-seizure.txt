@@ -1,0 +1,154 @@
+ExifTool Version Number         : 12.00
+File Name                       : hospital-after-seizure.png
+Directory                       : /Users/derek/Desktop
+File Size                       : 3.0 MB
+File Modification Date/Time     : 2020:11:07 01:09:48-05:00
+File Access Date/Time           : 2020:11:07 01:10:55-05:00
+File Inode Change Date/Time     : 2020:11:07 01:10:53-05:00
+File Permissions                : r--------
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Camera Model Name               : Pixel XL
+Software                        : HDR+ 1.0.163413028z
+Orientation                     : Horizontal (normal)
+Modify Date                     : 2017:09:26 15:35:40
+Y Cb Cr Positioning             : Centered
+Warning                         : [minor] Unrecognized MakerNotes
+ISO                             : 301
+Exposure Program                : Program AE
+F Number                        : 2.0
+Exposure Time                   : 1/120
+Sensing Method                  : One-chip color area
+Sub Sec Time Digitized          : 686307
+Sub Sec Time Original           : 686307
+Sub Sec Time                    : 686307
+Subject Distance Range          : Macro
+Sharpness                       : Normal
+Focal Length                    : 4.7 mm
+Saturation                      : Normal
+Flash                           : Auto, Did not fire
+Contrast                        : Normal
+Metering Mode                   : Center-weighted average
+Scene Capture Type              : Standard
+Subject Distance                : 0.768 m
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Max Aperture Value              : 2.0
+Create Date                     : 2017:09:26 15:35:40
+Exposure Compensation           : 0
+Exif Image Height               : 3036
+White Balance                   : Auto
+Date/Time Original              : 2017:09:26 15:35:40
+Brightness Value                : 2.32
+Exposure Mode                   : Auto
+Exif Image Width                : 4048
+Aperture Value                  : 2.0
+Scene Type                      : Directly photographed
+Dereks-MacBook-Pro:Desktop derek$ exiftool hospital-after-seizure.png
+ExifTool Version Number         : 12.00
+File Name                       : hospital-after-seizure.png
+Directory                       : .
+File Size                       : 3.0 MB
+File Modification Date/Time     : 2020:11:07 01:09:48-05:00
+File Access Date/Time           : 2020:11:07 01:10:55-05:00
+File Inode Change Date/Time     : 2020:11:07 01:10:53-05:00
+File Permissions                : r--------
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Camera Model Name               : Pixel XL
+Software                        : HDR+ 1.0.163413028z
+Orientation                     : Horizontal (normal)
+Modify Date                     : 2017:09:26 15:35:40
+Y Cb Cr Positioning             : Centered
+Warning                         : [minor] Unrecognized MakerNotes
+ISO                             : 301
+Exposure Program                : Program AE
+F Number                        : 2.0
+Exposure Time                   : 1/120
+Sensing Method                  : One-chip color area
+Sub Sec Time Digitized          : 686307
+Sub Sec Time Original           : 686307
+Sub Sec Time                    : 686307
+Subject Distance Range          : Macro
+Sharpness                       : Normal
+Focal Length                    : 4.7 mm
+Saturation                      : Normal
+Flash                           : Auto, Did not fire
+Contrast                        : Normal
+Metering Mode                   : Center-weighted average
+Scene Capture Type              : Standard
+Subject Distance                : 0.768 m
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Max Aperture Value              : 2.0
+Create Date                     : 2017:09:26 15:35:40
+Exposure Compensation           : 0
+Exif Image Height               : 3036
+White Balance                   : Auto
+Date/Time Original              : 2017:09:26 15:35:40
+Brightness Value                : 2.32
+Exposure Mode                   : Auto
+Exif Image Width                : 4048
+Aperture Value                  : 2.0
+Components Configuration        : Y, Cb, Cr, -
+Scene Type                      : Directly photographed
+Custom Rendered                 : Custom
+Color Space                     : sRGB
+Shutter Speed Value             : 1/120
+Exif Version                    : 0220
+Flashpix Version                : 0100
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Make                            : Google
+Thumbnail Offset                : 18862
+Thumbnail Length                : 6341
+Compression                     : JPEG (old-style)
+JFIF Version                    : 1.02
+Profile CMM Type                :
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2016:12:08 09:38:28
+Profile File Signature          : acsp
+Primary Platform                : Unknown ()
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Google
+Device Model                    :
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Google
+Profile ID                      : 75e1a6b13c34376310c8ab660632a28a
+Profile Description             : sRGB IEC61966-2.1
+Profile Copyright               : Copyright (c) 2016 Google Inc.
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43604 0.22249 0.01392
+Green Matrix Column             : 0.38512 0.7169 0.09706
+Blue Matrix Column              : 0.14305 0.06061 0.71391
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.05019 0.02959 0.99048 -0.01704 -0.00922 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Image Width                     : 4048
+Image Height                    : 3036
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Aperture                        : 2.0
+Image Size                      : 4048x3036
+Megapixels                      : 12.3
+Shutter Speed                   : 1/120
+Create Date                     : 2017:09:26 15:35:40.686307
+Date/Time Original              : 2017:09:26 15:35:40.686307
+Modify Date                     : 2017:09:26 15:35:40.686307
+Thumbnail Image                 : (Binary data 6341 bytes, use -b option to extract)
+Focal Length                    : 4.7 mm
+Light Value                     : 7.3
